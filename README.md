@@ -1,6 +1,5 @@
 # 📜 Gnome-Scripts
 Some shell scripts for Gnome Desktop Environment.
-
 > Works well for the following linux distributions
 > - Ubuntu Linux
 > - Debian Linux 
