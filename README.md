@@ -1,8 +1,14 @@
 # 📜 Gnome-Scripts
-Some shell scripts for Gnome Desktop Environment that work in Ubuntu linux, and Archlinux
+Some shell scripts for Gnome Desktop Environment.
+
+> Works well for the following linux distributions
+> - Ubuntu Linux
+> - Debian Linux 
+> - Archlinux
+> - Manjaro Linux
 
 # 🛠️ Usage
-Note : Install git and Timeshift
+> Note : Install git and Timeshift
 
     cd ~
     cd Downloads
